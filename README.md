@@ -192,4 +192,4 @@ P(bot) < 0.5  →  HUMAN
 
 ## Acknowledgements
 
-- Dataset: [delbot-mouse](https://github.com/ClassicSours/delbot-mouse) by ClassicSours
+- Dataset: [delbot-mouse](https://github.com/chrisgdt/DELBOT-Mouse/tree/master) by ClassicSours
