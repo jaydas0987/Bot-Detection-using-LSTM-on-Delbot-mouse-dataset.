@@ -54,7 +54,7 @@ assgnmnt prjct/
 | circles_bot_gan | Bot | 1,899 |
 | **Total** | | **3,444** |
 
-Download from: https://github.com/ClassicSours/delbot-mouse
+Download from: https://github.com/chrisgdt/DELBOT-Mouse/tree/master
 
 ---
 
@@ -192,4 +192,4 @@ P(bot) < 0.5  →  HUMAN
 
 ## Acknowledgements
 
-- Dataset: [delbot-mouse](https://github.com/chrisgdt/DELBOT-Mouse/tree/master) by ClassicSours
+- Dataset: [delbot-mouse](https://github.com/chrisgdt/DELBOT-Mouse/tree/master) by Chrisgdt
