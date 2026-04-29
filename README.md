@@ -177,6 +177,7 @@ P(bot) < 0.5  →  HUMAN
 ```
 
 ---
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/366ffd6d-f7f0-4a8d-bb14-dc4bce4a7271" />
 
 ## Tech Stack
 
